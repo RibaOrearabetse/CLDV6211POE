@@ -1,0 +1,25 @@
+{
+  "dependencies": {},
+  "parameters": {
+    "CLDV6211POE.resourceName": {
+      "Name": "CLDV6211POE.resourceName",
+      "Type": null,
+      "Value": "CLDV6211POE"
+    },
+    "CLDV6211POE.subscriptionId": {
+      "Name": "CLDV6211POE.subscriptionId",
+      "Type": "subscription",
+      "Value": "5933e59c-f7ad-4930-8b6b-4a42b9639975"
+    },
+    "CLDV6211POE.resourceGroupName": {
+      "Name": "CLDV6211POE.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "Riba"
+    },
+    "CLDV6211POE.resourceGroupLocation": {
+      "Name": "CLDV6211POE.resourceGroupLocation",
+      "Type": null,
+      "Value": "southafricanorth"
+    }
+  }
+}
