@@ -1,7 +1,0 @@
-C:\Users\lab_services_student\OneDrive\Desktop\CLDV6211POE\EventEase Database CLDV6211 Part1\obj\Release\net9.0\PubTmp\Out\EventEase Database CLDV6211 Part1.exe
-C:\Users\lab_services_student\OneDrive\Desktop\CLDV6211POE\EventEase Database CLDV6211 Part1\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
-C:\Users\lab_services_student\OneDrive\Desktop\CLDV6211POE\EventEase Database CLDV6211 Part1\obj\Release\net9.0\PubTmp\Out\appsettings.json
-C:\Users\lab_services_student\OneDrive\Desktop\CLDV6211POE\EventEase Database CLDV6211 Part1\obj\Release\net9.0\PubTmp\Out\EventEase Database CLDV6211 Part1.dll
-C:\Users\lab_services_student\OneDrive\Desktop\CLDV6211POE\EventEase Database CLDV6211 Part1\obj\Release\net9.0\PubTmp\Out\EventEase Database CLDV6211 Part1.deps.json
-C:\Users\lab_services_student\OneDrive\Desktop\CLDV6211POE\EventEase Database CLDV6211 Part1\obj\Release\net9.0\PubTmp\Out\EventEase Database CLDV6211 Part1.runtimeconfig.json
-C:\Users\lab_services_student\OneDrive\Desktop\CLDV6211POE\EventEase Database CLDV6211 Part1\obj\Release\net9.0\PubTmp\Out\EventEase Database CLDV6211 Part1.pdb
